@@ -127,6 +127,8 @@ def fight(guesses_left):
     board_(Random_Ship_Placer)  # where random ships where.
     print('------------')
     board_(Play__ground)        # if a guessed place was a hit.
+    print('------------')
+    print('Thank you for playing battleships.')
 
 
 fight(guesses_left)
